@@ -1,0 +1,5 @@
+Initializing Git
+Git Init
+
+Preparing changes to be saved permanently:
+git add . OR git add (filename)
