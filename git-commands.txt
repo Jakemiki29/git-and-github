@@ -1,5 +1,17 @@
 Initializing Git
-Git Init
+git init
 
 Preparing changes to be saved permanently:
 git add . OR git add (filename)
+
+Command to check the status of your project
+git status
+
+Commiting is basically a snapshot of your project at a moment in time.
+git commit -m "Message goes in here."
+
+This command will connect your local files in VS code to the remote repository.
+git remote add origin https://github.com/repoUser/repoName
+
+This command will push all the files to the remote repository.
+git push -u origin main
